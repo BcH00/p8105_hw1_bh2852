@@ -1,11 +1,9 @@
 ---
-title: "p8105_hw1_bh2852"
+title: "Untitled"
 author: "Beicheng Huang"
 date: "2023-09-23"
-output: github_document
-=======
-
-
+output: html_document
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
